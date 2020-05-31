@@ -1,2 +1,0 @@
-# kingmontreal
-Created with CodeSandbox
